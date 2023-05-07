@@ -1,0 +1,27 @@
+body{
+     background-color: rgb(29, 52, 52);
+}
+h1{
+     color:darkcyan;
+     margin-top: 100px;
+     text-align: center;
+     font-size: 4rem;
+     font-style: italic;
+}
+.dice1{
+     display: inline-block;
+     font-size: 3rem;
+     color: darkcyan;
+     margin-left: 30%;
+     font-style: italic;
+}
+.dice2{
+     display: inline-block;
+     font-size: 3rem;
+     color: darkcyan;
+     margin-left: 15%;
+     font-style: italic;
+}
+img{
+     height: 200px;
+}
